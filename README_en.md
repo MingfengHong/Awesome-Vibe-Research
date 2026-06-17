@@ -80,7 +80,7 @@ Trend tracking, research inspiration, novelty verification, hypothesis generatio
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
 | SciAgentsDiscovery | MIT open-source scientific discovery system combining knowledge graphs and multi-agent collaboration for cross-domain hypothesis generation | agent | <!--stars:lamm-mit/SciAgentsDiscovery-->⭐&nbsp;615<!--/stars--> | [GitHub](https://github.com/lamm-mit/SciAgentsDiscovery) | - | [arXiv 2024](https://arxiv.org/abs/2409.05556) |
-| AutoDiscovery | AllenAI open-ended scientific discovery framework using Bayesian Surprise to find testable hypotheses from data | benchmark/workflow | <!--stars:allenai/autodiscovery-neurips-->⭐&nbsp;185<!--/stars--> | [GitHub](https://github.com/allenai/autodiscovery-neurips) | - | [NeurIPS 2025](https://arxiv.org/abs/2506.13266) |
+| AutoDiscovery | AllenAI open-ended scientific discovery framework using Bayesian Surprise to find testable hypotheses from data | benchmark/workflow | <!--stars:allenai/autodiscovery-neurips-->⭐&nbsp;185<!--/stars--> | [GitHub](https://github.com/allenai/autodiscovery-neurips) | - | [NeurIPS 2024](https://arxiv.org/abs/2406.13266) |
 
 ---
 
