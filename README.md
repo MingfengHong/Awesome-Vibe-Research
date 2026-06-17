@@ -80,7 +80,7 @@
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
 | SciAgentsDiscovery | MIT 开源的科学发现多智能体系统，结合知识图谱与 agent 协作用于跨学科假说生成 | agent | <!--stars:lamm-mit/SciAgentsDiscovery-->⭐&nbsp;615<!--/stars--> | [GitHub](https://github.com/lamm-mit/SciAgentsDiscovery) | - | [arXiv 2024](https://arxiv.org/abs/2409.05556) |
-| AutoDiscovery | AllenAI 开源的开放式科学发现框架，通过 Bayesian Surprise 从数据中发现可验证假说 | benchmark/workflow | <!--stars:allenai/autodiscovery-neurips-->⭐&nbsp;185<!--/stars--> | [GitHub](https://github.com/allenai/autodiscovery-neurips) | - | [NeurIPS 2025](https://arxiv.org/abs/2506.13266) |
+| AutoDiscovery | AllenAI 开源的开放式科学发现框架，通过 Bayesian Surprise 从数据中发现可验证假说 | benchmark/workflow | <!--stars:allenai/autodiscovery-neurips-->⭐&nbsp;185<!--/stars--> | [GitHub](https://github.com/allenai/autodiscovery-neurips) | - | [NeurIPS 2024](https://arxiv.org/abs/2406.13266) |
 
 ---
 
