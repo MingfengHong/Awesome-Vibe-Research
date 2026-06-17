@@ -60,16 +60,16 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
-| AI-Scientist | 端到端自动科学发现系统，覆盖想法生成、实验、论文和同行评审 | agent | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)](https://github.com/SakanaAI/AI-Scientist) | [GitHub](https://github.com/SakanaAI/AI-Scientist) | - | [Nature 2024](https://modelscope.cn/papers/2408.06292/) |
-| AI-Scientist-v2 | 基于 agentic tree search 的自动科研系统，不依赖人类模板，面向更通用的 ML 研究探索 | agent | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social)](https://github.com/SakanaAI/AI-Scientist-v2) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) | - | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) |
-| EvoScientist | 多 agent AI scientist 系统，强调持久记忆、技能演化和端到端科研协作 | agent | [![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=social)](https://github.com/EvoScientist/EvoScientist) | [GitHub](https://github.com/EvoScientist/EvoScientist) | [Demo](https://evoscientist.ai) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) |
-| nature-skills | 符合 nature 论文学术表达和科研绘图的 Skill | skill | [![GitHub stars](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=social)](https://github.com/Yuan1z0825/nature-skills) | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [魔搭 Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
-| AutoResearchClaw | 自主、自进化的多阶段研究流水线，从研究想法推进到论文产物 | agent | [![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social)](https://github.com/aiming-lab/AutoResearchClaw) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | [Demo](https://openclaw.ai) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) |
-| autoresearch | Andrej Karpathy 的自主 ML 研究代理，在单 GPU 上自动运行实验并改进模型 | agent | [![GitHub stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social)](https://github.com/karpathy/autoresearch) | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
-| Auto Claude Code Research in Sleep | 自动化 Claude Code 科研工作流项目，面向自动实验与代码执行 | skill | [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=social)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
-| AgentLaboratory | 端到端的自主研究工作流程，由 LLM 驱动的专业代理支持完成从文献综述到报告撰写的全流程 | agent | [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=social)](https://github.com/SamuelSchmidgall/AgentLaboratory) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) | - | - |
-| Aether | 基于 OpenCode 的开源项目，面向科研人员提供 web 与桌面端统一的 AI 研究工作环境 | agent/应用 | [![GitHub stars](https://img.shields.io/github/stars/Science-Discovery/Aether?style=social)](https://github.com/Science-Discovery/Aether) | [GitHub](https://github.com/Science-Discovery/Aether) | - | - |
-| EurekAgent | 环境工程驱动的自主科研系统，面向可度量任务协调 Claude Code 会话提出方案、实现代码、隔离评测并迭代优化 | agent | [![GitHub stars](https://img.shields.io/github/stars/THU-Team-Eureka/EurekAgent?style=social)](https://github.com/THU-Team-Eureka/EurekAgent) | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| AI-Scientist | 端到端自动科学发现系统，覆盖想法生成、实验、论文和同行评审 | agent | <!--stars:SakanaAI/AI-Scientist-->⭐ 14k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist) | - | [Nature 2024](https://modelscope.cn/papers/2408.06292/) |
+| AI-Scientist-v2 | 基于 agentic tree search 的自动科研系统，不依赖人类模板，面向更通用的 ML 研究探索 | agent | <!--stars:SakanaAI/AI-Scientist-v2-->⭐ 6.6k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) | - | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) |
+| EvoScientist | 多 agent AI scientist 系统，强调持久记忆、技能演化和端到端科研协作 | agent | <!--stars:EvoScientist/EvoScientist-->⭐ 3.6k<!--/stars--> | [GitHub](https://github.com/EvoScientist/EvoScientist) | [Demo](https://evoscientist.ai) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) |
+| nature-skills | 符合 nature 论文学术表达和科研绘图的 Skill | skill | <!--stars:Yuan1z0825/nature-skills-->⭐ 20.6k<!--/stars--> | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [魔搭 Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
+| AutoResearchClaw | 自主、自进化的多阶段研究流水线，从研究想法推进到论文产物 | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐ 13.5k<!--/stars--> | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | [Demo](https://openclaw.ai) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) |
+| autoresearch | Andrej Karpathy 的自主 ML 研究代理，在单 GPU 上自动运行实验并改进模型 | agent | <!--stars:karpathy/autoresearch-->⭐ 87.2k<!--/stars--> | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
+| Auto Claude Code Research in Sleep | 自动化 Claude Code 科研工作流项目，面向自动实验与代码执行 | skill | <!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐ 12.2k<!--/stars--> | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
+| AgentLaboratory | 端到端的自主研究工作流程，由 LLM 驱动的专业代理支持完成从文献综述到报告撰写的全流程 | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐ 5.7k<!--/stars--> | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) | - | - |
+| Aether | 基于 OpenCode 的开源项目，面向科研人员提供 web 与桌面端统一的 AI 研究工作环境 | agent/应用 | <!--stars:Science-Discovery/Aether-->⭐ 65<!--/stars--> | [GitHub](https://github.com/Science-Discovery/Aether) | - | - |
+| EurekAgent | 环境工程驱动的自主科研系统，面向可度量任务协调 Claude Code 会话提出方案、实现代码、隔离评测并迭代优化 | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐ 54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -87,9 +87,9 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
-| STORM | 斯坦福开源知识整理系统，通过多视角问题生成和检索生成带引用报告 | agent | [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)](https://github.com/stanford-oval/storm) | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
-| paperseek | 面向研究者的文献发现工具，支持自然语言检索、自动迭代查询、扩展候选论文 | agent/skill | [![GitHub stars](https://img.shields.io/github/stars/MingfengHong/paperseek?style=social)](https://github.com/MingfengHong/paperseek) | [GitHub](https://github.com/MingfengHong/paperseek) | [魔搭创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) | - |
-| Lune | 通过 MCP 提供顶会 Paper 的 agentic search 能力，支持学术文献与科研最佳实践的 grounding | agent/tool | [![GitHub stars](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server?style=social)](https://github.com/RetrogradeLabs/lune-mcp-server) | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
+| STORM | 斯坦福开源知识整理系统，通过多视角问题生成和检索生成带引用报告 | agent | <!--stars:stanford-oval/storm-->⭐ 28.4k<!--/stars--> | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
+| paperseek | 面向研究者的文献发现工具，支持自然语言检索、自动迭代查询、扩展候选论文 | agent/skill | <!--stars:MingfengHong/paperseek-->⭐ 28<!--/stars--> | [GitHub](https://github.com/MingfengHong/paperseek) | [魔搭创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) | - |
+| Lune | 通过 MCP 提供顶会 Paper 的 agentic search 能力，支持学术文献与科研最佳实践的 grounding | agent/tool | <!--stars:RetrogradeLabs/lune-mcp-server-->⭐ 2<!--/stars--> | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
 
 ---
 
@@ -107,8 +107,8 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
-| RD-Agent | 实现数据与模型高价值通用研发流程的自动化，让 AI 驱动数据驱动型 AI | agent | [![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) | [GitHub](https://github.com/microsoft/RD-Agent) | - | [arXiv 2025](https://arxiv.org/abs/2505.14738) |
-| EurekAgent | 面向可度量科研任务的实验执行环境，支持 Claude Code 会话自动实现方案、Docker 隔离评测、日志追踪和迭代优化 | agent | [![GitHub stars](https://img.shields.io/github/stars/THU-Team-Eureka/EurekAgent?style=social)](https://github.com/THU-Team-Eureka/EurekAgent) | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| RD-Agent | 实现数据与模型高价值通用研发流程的自动化，让 AI 驱动数据驱动型 AI | agent | <!--stars:microsoft/RD-Agent-->⭐ 13.5k<!--/stars--> | [GitHub](https://github.com/microsoft/RD-Agent) | - | [arXiv 2025](https://arxiv.org/abs/2505.14738) |
+| EurekAgent | 面向可度量科研任务的实验执行环境，支持 Claude Code 会话自动实现方案、Docker 隔离评测、日志追踪和迭代优化 | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐ 54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -118,7 +118,7 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
-| PaperBanana | 多 agent 学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | [![GitHub stars](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=social)](https://github.com/dwzhu-pku/PaperBanana) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) | [Demo](https://dwzhu-pku.github.io/PaperBanana/) | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) |
+| PaperBanana | 多 agent 学术插图自动化生成框架，从文本描述生成出版级图表和统计图 | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐ 6.6k<!--/stars--> | [GitHub](https://github.com/dwzhu-pku/PaperBanana) | [Demo](https://dwzhu-pku.github.io/PaperBanana/) | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) |
 
 ---
 
@@ -128,7 +128,7 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
-| Academic Research Skills | 覆盖学术写作、润色、投稿检查和发表流程的 Claude Code skill 套件，也覆盖文献调研 | skill | [![GitHub stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=social)](https://github.com/Imbad0202/academic-research-skills) | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
+| Academic Research Skills | 覆盖学术写作、润色、投稿检查和发表流程的 Claude Code skill 套件，也覆盖文献调研 | skill | <!--stars:Imbad0202/academic-research-skills-->⭐ 32.2k<!--/stars--> | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
 
 ---
 
@@ -152,7 +152,7 @@
 
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo/实践经验 | Paper |
 |---|---|---|---|---|---|---|
-| CitationClaw | 用 agent 挖掘可解释的论文影响力，适合论文发表后的引用画像和传播分析 | tool | [![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=social)](https://github.com/VisionXLab/CitationClaw) | [GitHub](https://github.com/VisionXLab/CitationClaw) | [ModelScope Studio](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw) | - |
+| CitationClaw | 用 agent 挖掘可解释的论文影响力，适合论文发表后的引用画像和传播分析 | tool | <!--stars:VisionXLab/CitationClaw-->⭐ 307<!--/stars--> | [GitHub](https://github.com/VisionXLab/CitationClaw) | [ModelScope Studio](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw) | - |
 | ModelScope AI 超级简历 | 科研个人主页建设，用于沉淀模型、数据集、paper、demo 和学术影响力 | platform | - | [ModelScope](https://modelscope.cn/) | 示例：[VoyagerX](https://modelscope.cn/profile/VoyagerX) · [陈谐](https://modelscope.cn/profile/chenxie95) | - |
 
 ---
@@ -194,6 +194,17 @@
   - 失败案例与边界（"在 Y 场景下表现不好，原因是 Z"）
 
 **贡献方式：** 直接在对应阶段的表格末尾添加一行，在 "Demo/实践经验" 列填入链接。建议发布在 [魔搭研习社](https://modelscope.cn/learn) 并带上 tag `#vibe-research`，让同行更容易发现；如果已发布在其他平台，也欢迎直接填外链。如果你的实践横跨多个阶段，先放进最核心的那个阶段，在描述里注明"也覆盖 x 阶段"。
+
+**关于 Stars 列：**
+- Stars 数量由 GitHub Action 自动维护，PR 合并后每日自动更新
+- 首次添加项目时，在 `Stars` 列按以下格式填写：
+  ```
+  `<!--stars:OWNER/REPO-->⭐ updating<!--/stars-->`
+  ```
+  例如：
+  ```
+  | DeepScientist | 本地优先的自主研究工作室... | agent | <!--stars:ResearAI/DeepScientist-->⭐ 3.1k<!--/stars--> | [GitHub](...) | [Demo](...) | [arXiv 2025](...) |
+  ```
 
 ---
 
