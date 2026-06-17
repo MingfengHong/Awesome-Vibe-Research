@@ -60,16 +60,16 @@ End-to-end systems from idea to paper. Agents spanning three or more stages go h
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| AI-Scientist | End-to-end automated scientific discovery: idea generation, experiments, paper writing, and peer review | agent | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)](https://github.com/SakanaAI/AI-Scientist) | [GitHub](https://github.com/SakanaAI/AI-Scientist) | - | [Nature 2024](https://modelscope.cn/papers/2408.06292/) |
-| AI-Scientist-v2 | Agentic tree search for automated research, template-free, targeting general ML exploration | agent | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social)](https://github.com/SakanaAI/AI-Scientist-v2) | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) | - | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) |
-| EvoScientist | Multi-agent AI scientist with persistent memory, skill evolution, and end-to-end research collaboration | agent | [![GitHub stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=social)](https://github.com/EvoScientist/EvoScientist) | [GitHub](https://github.com/EvoScientist/EvoScientist) | [Demo](https://evoscientist.ai) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) |
-| nature-skills | Skills for Nature-grade academic writing and scientific figure creation | skill | [![GitHub stars](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=social)](https://github.com/Yuan1z0825/nature-skills) | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [ModelScope Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
-| AutoResearchClaw | Autonomous, self-evolving multi-stage research pipeline from idea to paper artifacts | agent | [![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social)](https://github.com/aiming-lab/AutoResearchClaw) | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | [Demo](https://openclaw.ai) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) |
-| autoresearch | Andrej Karpathy's autonomous ML research agent running experiments on a single GPU | agent | [![GitHub stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=social)](https://github.com/karpathy/autoresearch) | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
-| Auto Claude Code Research in Sleep | Automated Claude Code research workflow for unattended experiment execution | skill | [![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=social)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
-| AgentLaboratory | End-to-end autonomous research workflow with LLM-powered specialized agents for literature review through report writing | agent | [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=social)](https://github.com/SamuelSchmidgall/AgentLaboratory) | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) | - | - |
-| Aether | Open-source AI research environment with unified web & desktop experience, powered by research-focused agents and skills | agent/app | [![GitHub stars](https://img.shields.io/github/stars/Science-Discovery/Aether?style=social)](https://github.com/Science-Discovery/Aether) | [GitHub](https://github.com/Science-Discovery/Aether) | - | - |
-| EurekAgent | Environment-engineered autonomous research system for metric-driven tasks, coordinating Claude Code sessions to propose, implement, evaluate, and iterate solutions | agent | [![GitHub stars](https://img.shields.io/github/stars/THU-Team-Eureka/EurekAgent?style=social)](https://github.com/THU-Team-Eureka/EurekAgent) | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| AI-Scientist | End-to-end automated scientific discovery: idea generation, experiments, paper writing, and peer review | agent | <!--stars:SakanaAI/AI-Scientist-->⭐&nbsp;14k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist) | - | [Nature 2024](https://modelscope.cn/papers/2408.06292/) |
+| AI-Scientist-v2 | Agentic tree search for automated research, template-free, targeting general ML exploration | agent | <!--stars:SakanaAI/AI-Scientist-v2-->⭐&nbsp;6.6k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) | - | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) |
+| EvoScientist | Multi-agent AI scientist with persistent memory, skill evolution, and end-to-end research collaboration | agent | <!--stars:EvoScientist/EvoScientist-->⭐&nbsp;3.6k<!--/stars--> | [GitHub](https://github.com/EvoScientist/EvoScientist) | [Demo](https://evoscientist.ai) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) |
+| nature-skills | Skills for Nature-grade academic writing and scientific figure creation | skill | <!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;20.6k<!--/stars--> | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [ModelScope Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
+| AutoResearchClaw | Autonomous, self-evolving multi-stage research pipeline from idea to paper artifacts | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐&nbsp;13.5k<!--/stars--> | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | [Demo](https://openclaw.ai) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) |
+| autoresearch | Andrej Karpathy's autonomous ML research agent running experiments on a single GPU | agent | <!--stars:karpathy/autoresearch-->⭐&nbsp;87.2k<!--/stars--> | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
+| Auto Claude Code Research in Sleep | Automated Claude Code research workflow for unattended experiment execution | skill | <!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;12.2k<!--/stars--> | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
+| AgentLaboratory | End-to-end autonomous research workflow with LLM-powered specialized agents for literature review through report writing | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐&nbsp;5.7k<!--/stars--> | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) | - | - |
+| Aether | Open-source AI research environment with unified web & desktop experience, powered by research-focused agents and skills | agent/app | <!--stars:Science-Discovery/Aether-->⭐&nbsp;65<!--/stars--> | [GitHub](https://github.com/Science-Discovery/Aether) | - | - |
+| EurekAgent | Environment-engineered autonomous research system for metric-driven tasks, coordinating Claude Code sessions to propose, implement, evaluate, and iterate solutions | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -87,9 +87,9 @@ Literature search, RAG Q&A, automated survey generation, citation graph analysis
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| STORM | Stanford's open-source knowledge curation system generating cited reports via multi-perspective question generation | agent | [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)](https://github.com/stanford-oval/storm) | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
-| paperseek | A researcher-oriented literature discovery tool supporting natural language queries with iterative search expansion | agent/skill | [![GitHub stars](https://img.shields.io/github/stars/MingfengHong/paperseek?style=social)](https://github.com/MingfengHong/paperseek) | [GitHub](https://github.com/MingfengHong/paperseek) | [paperseek.xyz](https://www.paperseek.xyz/) | - |
-| Lune | MCP server providing agentic search over top-tier papers, with grounding for both academic literature and research best practices | agent/tool | [![GitHub stars](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server?style=social)](https://github.com/RetrogradeLabs/lune-mcp-server) | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
+| STORM | Stanford's open-source knowledge curation system generating cited reports via multi-perspective question generation | agent | <!--stars:stanford-oval/storm-->⭐&nbsp;28.4k<!--/stars--> | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
+| paperseek | A researcher-oriented literature discovery tool supporting natural language queries with iterative search expansion | agent/skill | <!--stars:MingfengHong/paperseek-->⭐&nbsp;28<!--/stars--> | [GitHub](https://github.com/MingfengHong/paperseek) | [paperseek.xyz](https://www.paperseek.xyz/) | - |
+| Lune | MCP server providing agentic search over top-tier papers, with grounding for both academic literature and research best practices | agent/tool | <!--stars:RetrogradeLabs/lune-mcp-server-->⭐&nbsp;2<!--/stars--> | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
 
 ---
 
@@ -107,8 +107,8 @@ Coding, experiment running, statistical analysis, failure analysis, robustness c
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| RD-Agent | Automates high-value R&D processes for data and models — letting AI drive data-driven AI | agent | [![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent) | [GitHub](https://github.com/microsoft/RD-Agent) | - | [arXiv 2025](https://arxiv.org/abs/2505.14738) |
-| EurekAgent | Execution environment for metric-driven research tasks, supporting Claude Code sessions for implementation, Docker-isolated evaluation, logging, and iterative optimization | agent | [![GitHub stars](https://img.shields.io/github/stars/THU-Team-Eureka/EurekAgent?style=social)](https://github.com/THU-Team-Eureka/EurekAgent) | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| RD-Agent | Automates high-value R&D processes for data and models — letting AI drive data-driven AI | agent | <!--stars:microsoft/RD-Agent-->⭐&nbsp;13.5k<!--/stars--> | [GitHub](https://github.com/microsoft/RD-Agent) | - | [arXiv 2025](https://arxiv.org/abs/2505.14738) |
+| EurekAgent | Execution environment for metric-driven research tasks, supporting Claude Code sessions for implementation, Docker-isolated evaluation, logging, and iterative optimization | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -118,7 +118,7 @@ Publication-quality figures, schematic generation, data dashboards. Slides/poste
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| PaperBanana | Multi-agent framework for automated academic illustration, generating publication-ready charts from text descriptions | agent | [![GitHub stars](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=social)](https://github.com/dwzhu-pku/PaperBanana) | [GitHub](https://github.com/dwzhu-pku/PaperBanana) | [Demo](https://dwzhu-pku.github.io/PaperBanana/) | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) |
+| PaperBanana | Multi-agent framework for automated academic illustration, generating publication-ready charts from text descriptions | agent | <!--stars:dwzhu-pku/PaperBanana-->⭐&nbsp;6.6k<!--/stars--> | [GitHub](https://github.com/dwzhu-pku/PaperBanana) | [Demo](https://dwzhu-pku.github.io/PaperBanana/) | [arXiv 2025](https://modelscope.cn/papers/2601.23265/) |
 
 ---
 
@@ -128,7 +128,7 @@ Drafting, polishing, citation verification, LaTeX assistance, rebuttal, reviewin
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| Academic Research Skills | Claude Code skill suite covering academic writing, polishing, submission checks, and publication workflow | skill | [![GitHub stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=social)](https://github.com/Imbad0202/academic-research-skills) | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
+| Academic Research Skills | Claude Code skill suite covering academic writing, polishing, submission checks, and publication workflow | skill | <!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;32.2k<!--/stars--> | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
 
 ---
 
@@ -152,7 +152,7 @@ Slides, posters, blog posts, social media outreach, citation analysis, academic 
 
 | Project | Description | Type | Stars | Link | Demo/Practice | Paper |
 |---|---|---|---|---|---|---|
-| CitationClaw | Agent-powered explainable citation impact mining for post-publication analysis | tool | [![GitHub stars](https://img.shields.io/github/stars/VisionXLab/CitationClaw?style=social)](https://github.com/VisionXLab/CitationClaw) | [GitHub](https://github.com/VisionXLab/CitationClaw) | [ModelScope Studio](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw) | - |
+| CitationClaw | Agent-powered explainable citation impact mining for post-publication analysis | tool | <!--stars:VisionXLab/CitationClaw-->⭐&nbsp;307<!--/stars--> | [GitHub](https://github.com/VisionXLab/CitationClaw) | [ModelScope Studio](https://modelscope.cn/studios/fork?target=VisionXLab/CitationClaw) | - |
 | ModelScope AI Super Resume | Build your research profile to showcase models, datasets, papers, demos, and academic influence | platform | - | [ModelScope](https://modelscope.cn/) | Examples: [VoyagerX](https://modelscope.cn/profile/VoyagerX) · [chenxie95](https://modelscope.cn/profile/chenxie95) | - |
 
 ---
@@ -194,6 +194,21 @@ Beyond recommending existing open-source projects, we **especially encourage** y
   - Failure cases & boundaries ("Doesn't work well in Y scenario because of Z")
 
 **How to contribute:** Add a row at the end of the relevant stage table, and fill in a link in the "Demo/Practice" column. We recommend publishing on [ModelScope Learn](https://modelscope.cn/learn) with the `#vibe-research` tag for discoverability; external links are also welcome. If your practice spans multiple stages, place it in the most core stage and note "also covers stage X" in the description.
+
+**About the Stars column:**
+- Stars are automatically maintained by GitHub Action — **just add the marker on first submission**, and they will be updated automatically
+- When adding a new project, fill the `Stars` column with:
+  ```
+  `<!--stars:OWNER/REPO-->⭐ updating<!--/stars-->`
+  ```
+  For example:
+  ```
+  | DeepScientist | Local-first autonomous research studio... | agent | <!--stars:ResearAI/DeepScientist-->⭐&nbsp;3.1k<!--/stars--> | [GitHub](...) | [Demo](...) | [arXiv 2025](...) |
+  ```
+- Update frequency:
+  - **Scheduled**: Daily at 2:00 AM (UTC)
+  - **Immediate**: Triggered right after a PR is merged to `main` if `README.md` is changed
+- If the GitHub API is temporarily unavailable, the script automatically keeps the previous star count — no blank values
 
 ---
 
