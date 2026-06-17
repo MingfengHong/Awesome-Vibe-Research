@@ -92,7 +92,7 @@ def fetch_stars_with_retry(repo: str, token: str | None) -> int | None:
 def build_badge(repo: str, stars: str) -> str:
     return (
         f"<!--stars:{repo}-->"
-        f"⭐ {stars}"
+        f"⭐&nbsp;{stars}"
         f"<!--/stars-->"
     )
 
