@@ -63,13 +63,13 @@ End-to-end systems from idea to paper. Agents spanning three or more stages go h
 | AI-Scientist | End-to-end automated scientific discovery: idea generation, experiments, paper writing, and peer review | agent | <!--stars:SakanaAI/AI-Scientist-->⭐&nbsp;14k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist) | - | [Nature 2024](https://modelscope.cn/papers/2408.06292/) |
 | AI-Scientist-v2 | Agentic tree search for automated research, template-free, targeting general ML exploration | agent | <!--stars:SakanaAI/AI-Scientist-v2-->⭐&nbsp;6.6k<!--/stars--> | [GitHub](https://github.com/SakanaAI/AI-Scientist-v2) | - | [arXiv 2025](https://modelscope.cn/papers/2504.08066/) |
 | EvoScientist | Multi-agent AI scientist with persistent memory, skill evolution, and end-to-end research collaboration | agent | <!--stars:EvoScientist/EvoScientist-->⭐&nbsp;3.6k<!--/stars--> | [GitHub](https://github.com/EvoScientist/EvoScientist) | [Demo](https://evoscientist.ai) | [arXiv 2025](https://modelscope.cn/papers/2603.08127/) |
-| nature-skills | Skills for Nature-grade academic writing and scientific figure creation | skill | <!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;20.6k<!--/stars--> | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [ModelScope Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
+| nature-skills | Skills for Nature-grade academic writing and scientific figure creation | skill | <!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;20.9k<!--/stars--> | [GitHub](https://github.com/Yuan1z0825/nature-skills) · [ModelScope Skills](https://modelscope.cn/collections/stn54999/nature-skills) | - | - |
 | AutoResearchClaw | Autonomous, self-evolving multi-stage research pipeline from idea to paper artifacts | agent | <!--stars:aiming-lab/AutoResearchClaw-->⭐&nbsp;13.5k<!--/stars--> | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | [Demo](https://openclaw.ai) | [arXiv 2025](https://modelscope.cn/papers/2605.22662/) |
-| autoresearch | Andrej Karpathy's autonomous ML research agent running experiments on a single GPU | agent | <!--stars:karpathy/autoresearch-->⭐&nbsp;87.2k<!--/stars--> | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
-| Auto Claude Code Research in Sleep | Automated Claude Code research workflow for unattended experiment execution | skill | <!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;12.2k<!--/stars--> | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
+| autoresearch | Andrej Karpathy's autonomous ML research agent running experiments on a single GPU | agent | <!--stars:karpathy/autoresearch-->⭐&nbsp;87.4k<!--/stars--> | [GitHub](https://github.com/karpathy/autoresearch) | - | - |
+| Auto Claude Code Research in Sleep | Automated Claude Code research workflow for unattended experiment execution | skill | <!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;12.3k<!--/stars--> | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | - | - |
 | AgentLaboratory | End-to-end autonomous research workflow with LLM-powered specialized agents for literature review through report writing | agent | <!--stars:SamuelSchmidgall/AgentLaboratory-->⭐&nbsp;5.7k<!--/stars--> | [GitHub](https://github.com/SamuelSchmidgall/AgentLaboratory) | - | - |
 | Aether | Open-source AI research environment with unified web & desktop experience, powered by research-focused agents and skills | agent/app | <!--stars:Science-Discovery/Aether-->⭐&nbsp;65<!--/stars--> | [GitHub](https://github.com/Science-Discovery/Aether) | - | - |
-| EurekAgent | Environment-engineered autonomous research system for metric-driven tasks, coordinating Claude Code sessions to propose, implement, evaluate, and iterate solutions | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| EurekAgent | Environment-engineered autonomous research system for metric-driven tasks, coordinating Claude Code sessions to propose, implement, evaluate, and iterate solutions | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;55<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -90,8 +90,8 @@ Literature search, RAG Q&A, automated survey generation, citation graph analysis
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| STORM | Stanford's open-source knowledge curation system generating cited reports via multi-perspective question generation | agent | <!--stars:stanford-oval/storm-->⭐&nbsp;28.4k<!--/stars--> | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
-| paperseek | A researcher-oriented literature discovery tool supporting natural language queries with iterative search expansion | agent/skill | <!--stars:MingfengHong/paperseek-->⭐&nbsp;28<!--/stars--> | [GitHub](https://github.com/MingfengHong/paperseek) | [paperseek.xyz](https://www.paperseek.xyz/) | - |
+| STORM | Stanford's open-source knowledge curation system generating cited reports via multi-perspective question generation | agent | <!--stars:stanford-oval/storm-->⭐&nbsp;28.5k<!--/stars--> | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
+| paperseek | A researcher-oriented literature discovery tool supporting natural language queries with iterative search expansion | agent/skill | <!--stars:MingfengHong/paperseek-->⭐&nbsp;36<!--/stars--> | [GitHub](https://github.com/MingfengHong/paperseek) | [paperseek.xyz](https://www.paperseek.xyz/) | - |
 | Lune | MCP server providing agentic search over top-tier papers, with grounding for both academic literature and research best practices | agent/tool | <!--stars:RetrogradeLabs/lune-mcp-server-->⭐&nbsp;2<!--/stars--> | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
 | PaperQA2 | High-accuracy RAG system for scientific papers, producing evidence-grounded answers with citations | python pkg | <!--stars:Future-House/paper-qa-->⭐&nbsp;8.7k<!--/stars--> | [GitHub](https://github.com/Future-House/paper-qa) | - | - |
 | OpenScholar | Retrieval-augmented scientific literature synthesis system for generating scholarly answers grounded in open corpora | agent/model | <!--stars:AkariAsai/OpenScholar-->⭐&nbsp;1.5k<!--/stars--> | [GitHub](https://github.com/AkariAsai/OpenScholar) | - | [arXiv 2024](https://arxiv.org/abs/2411.14199) |
@@ -117,7 +117,7 @@ Coding, experiment running, statistical analysis, failure analysis, robustness c
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
 | RD-Agent | Automates high-value R&D processes for data and models — letting AI drive data-driven AI | agent | <!--stars:microsoft/RD-Agent-->⭐&nbsp;13.5k<!--/stars--> | [GitHub](https://github.com/microsoft/RD-Agent) | - | [arXiv 2025](https://arxiv.org/abs/2505.14738) |
-| EurekAgent | Execution environment for metric-driven research tasks, supporting Claude Code sessions for implementation, Docker-isolated evaluation, logging, and iterative optimization | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;54<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
+| EurekAgent | Execution environment for metric-driven research tasks, supporting Claude Code sessions for implementation, Docker-isolated evaluation, logging, and iterative optimization | agent | <!--stars:THU-Team-Eureka/EurekAgent-->⭐&nbsp;55<!--/stars--> | [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) | - | [arXiv 2026](https://arxiv.org/abs/2606.13662) |
 
 ---
 
@@ -137,8 +137,8 @@ Drafting, polishing, citation verification, LaTeX assistance, rebuttal, reviewin
 
 | Project | Description | Type | Stars | Link | Demo | Paper |
 |---|---|---|---|---|---|---|
-| Academic Research Skills | Claude Code skill suite covering academic writing, polishing, submission checks, and publication workflow | skill | <!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;32.2k<!--/stars--> | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
-| RefChecker | Academic reference validation tool for checking citation existence, metadata errors, and likely fabricated references | tool | <!--stars:markrussinovich/refchecker-->⭐&nbsp;400<!--/stars--> | [GitHub](https://github.com/markrussinovich/refchecker) | - | - |
+| Academic Research Skills | Claude Code skill suite covering academic writing, polishing, submission checks, and publication workflow | skill | <!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;32.5k<!--/stars--> | [GitHub](https://github.com/Imbad0202/academic-research-skills) | - | - |
+| RefChecker | Academic reference validation tool for checking citation existence, metadata errors, and likely fabricated references | tool | <!--stars:markrussinovich/refchecker-->⭐&nbsp;402<!--/stars--> | [GitHub](https://github.com/markrussinovich/refchecker) | - | - |
 
 ---
 
