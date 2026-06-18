@@ -174,6 +174,7 @@
 | DIY 你的蛋白质 — AlphaFold3 推理 | 用 AlphaFold3 在魔搭上做蛋白质结构推理的实操教程 | [魔搭研习社](https://modelscope.cn/learn/5526) | [创空间](https://modelscope.cn/studios/Z_biosketch/af3_infer_test/summary) |
 | AI Ready 遥感：从开放数据到开源生态实践 | AI Ready 数据简介，以及 ModelScope 如何提升遥感研究的 AI 就绪程度 | [魔搭研习社](https://modelscope.cn/learn/434003) | - |
 | Open Source GeoAI Practise with ModelScope | APGARSS 教程合集：基于 ModelScope 的开源地理人工智能实践 | [魔搭研习社](https://modelscope.cn/learn/434198) | - |
+| [PaperSeek - 使用自然语言检索文献](https://github.com/MingfengHong/paperseek) | 用自然语言进行文献检索、自动扩展查询并生成候选论文列表的实践流程 | [魔搭研习社](https://modelscope.cn/learn/434408) | [创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) |
 
 ---
 

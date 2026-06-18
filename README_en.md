@@ -174,6 +174,7 @@ Slides, posters, blog posts, social media outreach, citation analysis, academic 
 | DIY Your Protein — AlphaFold3 Inference | Hands-on tutorial for protein structure prediction with AlphaFold3 on ModelScope | [Learn](https://modelscope.cn/learn/5526) | [Studio](https://modelscope.cn/studios/Z_biosketch/af3_infer_test/summary) |
 | AI-Ready Remote Sensing: From Open Data to Open-Source Ecosystem | AI-Ready data intro and how ModelScope improves AI readiness for remote sensing research | [Learn](https://modelscope.cn/learn/434003) | - |
 | Open Source GeoAI Practice with ModelScope | APGARSS tutorial collection: open-source GeoAI practice based on ModelScope | [Learn](https://modelscope.cn/learn/434198) | - |
+| [PaperSeek - Literature Search with Natural Language](https://github.com/MingfengHong/paperseek) | A practical workflow for natural-language literature search, automatic query expansion, and candidate paper collection | [Learn](https://modelscope.cn/learn/434408) | [Studio](https://modelscope.cn/studios/HongMingfeng/PaperSeek) |
 
 ---
 
